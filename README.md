@@ -10,6 +10,7 @@
 - 💬 Ask me about *React, Node.js, Express.js*
 
 - 📫 How to reach me *mirzahasanlimon619@gmail.com*
+- My portfolio *https://mirzahasanportfolio.netlify.app/#about*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
