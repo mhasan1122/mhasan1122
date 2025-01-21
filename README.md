@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dynsi60i4/image/upload/v1733890835/Untitled-1-01-min_ryfyuf.jpg)
+![MasterHead](https://res.cloudinary.com/dnk7d03vr/image/upload/v1737438502/1737386464869_j88shs.jpg)
 
 <h1 align="center">Hi 👋, I'm Mirza Hasan Limon </h1>
 <h3 align="center">Full Stack Developer with a solid background in the MERN stack</h3>
