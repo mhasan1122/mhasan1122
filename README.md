@@ -1,9 +1,9 @@
 ![MasterHead](https://res.cloudinary.com/dnk7d03vr/image/upload/v1737438502/1737386464869_j88shs.jpg)
 
 <h1 align="center">Hi 👋, I'm Mirza Hasan Limon </h1>
-<h3 align="center">Full Stack Developer with a solid background in the MERN stack</h3>
+<h3 align="center">Full Stack Developer </h3>
 
-- 🌱 I’m currently learning *React Native*
+- 🌱 I’m currently learning *React Native* and *Django*
 
 - 👨‍💻 All of my projects are available at [ https://github.com/mhasan1122 ]
 
